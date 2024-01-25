@@ -1,5 +1,4 @@
 # 👋 Hi, I’m @bmrolo
----
 🌱 I’m currently learning Linux Fundamentals<br>💬 Ask me about Personal Finance, Music, and Philosophy<br>⚡ Fun fact: I can solve a Rubik's Cube in 8 seconds
 
 
