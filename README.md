@@ -3,7 +3,7 @@
 <br>
 <br>
 
-# 🔗 Check out my [Bento](https://bento.me/brycerohloff)
+# 🔗 Check out my [bento](https://bento.me/brycerohloff)
 <br>
 
 # 💻 Tech Stack:
