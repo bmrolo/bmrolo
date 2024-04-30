@@ -5,7 +5,7 @@ Fun fact: I can solve a Rubik's Cube in 8 seconds
 <br>
 <br>
 
-# 🔗 Check out my [bento](https://bento.me/brycerohloff) (no, really, you might _need_ to) 
+# 🔗 Check out my [bento](https://bento.me/brycerohloff)
 <br>
 
 # 💻 Tech Stack:
