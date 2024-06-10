@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @bmrolo
 🌱 I’m currently learning AWS<br>
-💭 I enjoy conversation about Personal Finance, Music, and Philosophy<br>⚡
+💭 I enjoy conversation about Personal Finance, Music, and Philosophy
 <br>
 <br>
 
