@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @bmrolo
-🌱 I’m currently learning AWS<br>
+🌱 I’m currently learning more about System Administration<br>
 💭 I enjoy conversation about Personal Finance, Music, and Philosophy
 <br>
 <br>
