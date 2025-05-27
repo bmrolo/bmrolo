@@ -4,7 +4,7 @@
 <br>
 <br>
 
-# 🔗 Check out my [bento](https://bento.me/brycerohloff)
+# 🔗 Check out my [website](https://bmrolo.com)
 <br>
 
 # 💻 Tech Stack:
